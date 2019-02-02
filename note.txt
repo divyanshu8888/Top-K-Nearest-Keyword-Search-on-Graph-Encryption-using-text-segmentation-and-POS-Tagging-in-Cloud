@@ -1,0 +1,6 @@
+The graph encrypted information can be searched using the keyword tagged
+to information.
+Programming Language Used : JAVA servlet
+Platform Used : JAVA
+Tools Used :MYSQL, Navicat lite for MYSQL
+Server: Apache Tomcat 6.0

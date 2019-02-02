@@ -1,0 +1,1 @@
+The actual data mining task is the semi-automatic or automatic analysis of large quantities of data to extract previously unknown, interesting patterns such as groups of data records cluster analysis, unusual records anomaly detection, and dependencies association rule mining, sequential pattern mining. 
